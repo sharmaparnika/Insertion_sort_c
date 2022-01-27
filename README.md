@@ -51,13 +51,13 @@ Now, let's see the time complexity of insertion sort in best case, average case,
 ### 1. Time Complexity
 Case	Time Complexity
 Best Case - O(n)
-Average Case - O(n2)
-Worst Case - O(n2)
+Average Case - O(n<sup>2</sup>)
+Worst Case - O(n<sup>2</sup>)
 
 
 *   **Best Case Complexity** - It occurs when there is no sorting required, i.e. the array is already sorted. The best-case time complexity of insertion sort is O(n).
-*   **Average Case Complexity** - It occurs when the array elements are in jumbled order that is not properly ascending and not properly descending. The average case time complexity of insertion sort is O(n2).
-*   **Worst Case Complexity** - It occurs when the array elements are required to be sorted in reverse order. That means suppose you have to sort the array elements in ascending order, but its elements are in descending order. The worst-case time complexity of insertion sort is O(n2).
+*   **Average Case Complexity** - It occurs when the array elements are in jumbled order that is not properly ascending and not properly descending. The average case time complexity of insertion sort is O(n<sup>2</sup>).
+*   **Worst Case Complexity** - It occurs when the array elements are required to be sorted in reverse order. That means suppose you have to sort the array elements in ascending order, but its elements are in descending order. The worst-case time complexity of insertion sort is O(n<sup>2</sup>).
 
 
 ### 2. Space Complexity
